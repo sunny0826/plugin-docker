@@ -7,7 +7,7 @@ import (
 	"github.com/sirupsen/logrus"
 	"github.com/urfave/cli"
 
-	"github.com/drone-plugins/drone-docker"
+	"github.com/sunny0826/drone-docker"
 )
 
 var (
